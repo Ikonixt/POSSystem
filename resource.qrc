@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/45400-DEFAULT-l.jpg</file>
+        <file>images/10503693.jpg</file>
+        <file>images/10518017.jpg</file>
+        <file>images/Eqhzmg66RgD10lFSbfSA_tp9-sfx-list-16-67__71991.1543417532.jpg</file>
+        <file>images/nowlin-match-master2.jpg</file>
+        <file>images/PY-265_Walther-CP99-CO2-Gun_1473281659.jpg</file>
+        <file>images/PY-3549_Crosman-SR357S-Dual-Ammo_1510337808.jpg</file>
+        <file>images/PY-3909_Colt-SAA-CO2-Pellet.jpg</file>
+        <file>images/ruger-sp101-revolver-1284791-1.jpg</file>
+    </qresource>
+</RCC>
