@@ -6,4 +6,5 @@ Sells pistols
 
 Future improvements:
 Add/Delete Entries\
-Cleaner Interface
+Cleaner Interface\
+Deploy the application\
