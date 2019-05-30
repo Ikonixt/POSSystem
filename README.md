@@ -5,7 +5,7 @@ Goal: Desktop application development and project for Qt familiarity
 
 A simple POS system that sells pistols\
 
-Future improvements:
+Future improvements:\
 Add/Delete Entries\
 Cleaner Interface\
 Deploy the application
