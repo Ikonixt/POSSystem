@@ -5,5 +5,5 @@ Made with QT
 Sells pistols
 
 Future improvements:
-Add/Delete Entries
+Add/Delete Entries\
 Cleaner Interface
